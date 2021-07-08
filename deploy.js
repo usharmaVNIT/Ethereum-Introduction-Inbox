@@ -15,7 +15,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 const provider = new HDWalletProvider(
   // your 12 mnumonic , 
-  // infura api for any network if deployin using infura
+  // infura api for any network if deploying using infura
 )
 
 // Example 
